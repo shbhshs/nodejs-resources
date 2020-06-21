@@ -5,6 +5,12 @@
 
 ## Table of Contents
   - [Articles](##articles)
+  - [New features](##new-features)
 
 ## Articles
 * Deepal Jayasekara's [articles](https://blog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810)
+
+
+## New features
+* [Supported version wise features](https://node.green/)
+* [ECMAScript proposals](https://github.com/tc39/proposals)
