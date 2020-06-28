@@ -1,10 +1,11 @@
 # nodejs resources
 > A list of resources for nodejs.
 >
-> Maintainers: [Shubham Singh](https://github.com/shbhshs)
+> Maintainer: [Shubham Singh](https://github.com/shbhshs)
 
 ## Table of Contents
   - [Articles](##articles)
+  - [Videos](##videos)
   - [New features](##new-features)
 
 ## Articles
