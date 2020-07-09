@@ -12,6 +12,7 @@
 * Deepal Jayasekara's [articles](https://blog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810)
 * Joyent's [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 * [Don't block event loop](https://nodejs.org/en/docs/guides/dont-block-the-event-loop/)
+* Why [not to use Object.assign()](https://scotch.io/bar-talk/copying-objects-in-javascript) to copy objects?
 
 ## Videos
 * [Inversion of control](https://www.youtube.com/watch?v=bAlczbDUXx8)
