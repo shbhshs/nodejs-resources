@@ -13,6 +13,7 @@
 * Joyent's [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 * [Don't block event loop](https://nodejs.org/en/docs/guides/dont-block-the-event-loop/)
 * Why [not to use Object.assign()](https://scotch.io/bar-talk/copying-objects-in-javascript) to copy objects?
+* Nodejs [debugger](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
 
 ## Videos
 * [Inversion of control](https://www.youtube.com/watch?v=bAlczbDUXx8)
