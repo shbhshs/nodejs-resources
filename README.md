@@ -15,6 +15,7 @@
 * Why [not to use Object.assign()](https://scotch.io/bar-talk/copying-objects-in-javascript) to copy objects?
 * Nodejs [debugger](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
 * JSON.parse() [performance](https://itnext.io/can-json-parse-be-performance-improvement-ba1069951839)
+* [Memory leaks while emptying array](https://www.jstips.co/en/javascript/two-ways-to-empty-an-array/)
 
 ## Videos
 * [Inversion of control](https://www.youtube.com/watch?v=bAlczbDUXx8)
