@@ -19,6 +19,7 @@
 
 ## Videos
 * [Inversion of control](https://www.youtube.com/watch?v=bAlczbDUXx8)
+* [What the heck is event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by philip roberts
 
 ## New features
 * [Supported version wise features](https://node.green/)
