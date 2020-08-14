@@ -16,6 +16,7 @@
 * Nodejs [debugger](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
 * JSON.parse() [performance](https://itnext.io/can-json-parse-be-performance-improvement-ba1069951839)
 * [Memory leaks while emptying array](https://www.jstips.co/en/javascript/two-ways-to-empty-an-array/)
+* [Differnet methods to create new process in Node.js](https://www.freecodecamp.org/news/node-js-child-processes-everything-you-need-to-know-e69498fe970a/)
 
 ## Videos
 * [Inversion of control](https://www.youtube.com/watch?v=bAlczbDUXx8)
