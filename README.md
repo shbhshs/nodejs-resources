@@ -17,6 +17,7 @@
 * JSON.parse() [performance](https://itnext.io/can-json-parse-be-performance-improvement-ba1069951839)
 * [Memory leaks while emptying array](https://www.jstips.co/en/javascript/two-ways-to-empty-an-array/)
 * [Differnet methods to create new process in Node.js](https://www.freecodecamp.org/news/node-js-child-processes-everything-you-need-to-know-e69498fe970a/)
+* [Node.js design patterns](https://blog.logrocket.com/design-patterns-in-node-js/)
 
 ## Videos
 * [Inversion of control](https://www.youtube.com/watch?v=bAlczbDUXx8)
