@@ -18,7 +18,7 @@
 * [Memory leaks while emptying array](https://www.jstips.co/en/javascript/two-ways-to-empty-an-array/)
 * [Differnet methods to create new process in Node.js](https://www.freecodecamp.org/news/node-js-child-processes-everything-you-need-to-know-e69498fe970a/)
 * [Node.js design patterns](https://blog.logrocket.com/design-patterns-in-node-js/)
-* [Evil eval()](https://javascriptweblog.wordpress.com/2010/04/19/how-evil-is-eval/)
+* [How evil is eval()?](https://javascriptweblog.wordpress.com/2010/04/19/how-evil-is-eval/)
 * [Indirect eval()](https://eslint.org/docs/rules/no-eval)
 
 ## Videos
