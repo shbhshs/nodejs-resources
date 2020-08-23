@@ -21,6 +21,7 @@
 * [How evil is eval()?](https://javascriptweblog.wordpress.com/2010/04/19/how-evil-is-eval/)
 * [Indirect eval()](https://eslint.org/docs/rules/no-eval)
 * [new Function()](https://javascript.info/new-function)
+* [Guard Clause](https://blog.webdevsimplified.com/2020-01/guard-clauses/)
 
 ## Videos
 * [Inversion of control](https://www.youtube.com/watch?v=bAlczbDUXx8)
