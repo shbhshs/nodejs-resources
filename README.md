@@ -28,6 +28,8 @@
 * [Inversion of control](https://www.youtube.com/watch?v=bAlczbDUXx8)
 * [What the heck is event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by philip roberts
 * [Factory](https://www.youtube.com/watch?v=jpegXpQpb3o) vs [Contructor](https://www.youtube.com/watch?v=23AOrSN-wmI) Functions
+* [Advanced async and concurrency patterns](https://www.youtube.com/watch?v=Qg1SvpIau6U)
+* Communicating Sequential Process aka CSP.
 
 ## Key Points
 * Object.keys().foreach() seems to be async. (Need to explore)
