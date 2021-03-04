@@ -24,6 +24,7 @@
 * [Guard Clause](https://blog.webdevsimplified.com/2020-01/guard-clauses/)
 * Function binding in js using [bind](https://javascript.info/bind)
 * Nodejs [streams](https://nodesource.com/blog/understanding-streams-in-nodejs/)
+* [Why template literals?](https://betterprogramming.pub/javascript-how-backticks-work-de269e0fb8ba)
 
 ## Videos
 * [Inversion of control](https://www.youtube.com/watch?v=bAlczbDUXx8)
