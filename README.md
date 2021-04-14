@@ -25,6 +25,7 @@
 * Function binding in js using [bind](https://javascript.info/bind)
 * Nodejs [streams](https://nodesource.com/blog/understanding-streams-in-nodejs/)
 * [Why template literals?](https://betterprogramming.pub/javascript-how-backticks-work-de269e0fb8ba)
+* Jay Conrad's [A tour of V8](http://jayconrod.com/posts/51/a-tour-of-v8--full-compiler)
 
 ## Videos
 * [Inversion of control](https://www.youtube.com/watch?v=bAlczbDUXx8)
