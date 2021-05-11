@@ -26,6 +26,7 @@
 * Nodejs [streams](https://nodesource.com/blog/understanding-streams-in-nodejs/)
 * [Why template literals?](https://betterprogramming.pub/javascript-how-backticks-work-de269e0fb8ba)
 * Jay Conrad's [A tour of V8](http://jayconrod.com/posts/51/a-tour-of-v8--full-compiler)
+* [strict mode](https://flaviocopes.com/javascript-strict-mode/) 
 
 ## Videos
 * [Inversion of control](https://www.youtube.com/watch?v=bAlczbDUXx8)
