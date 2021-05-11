@@ -27,6 +27,7 @@
 * [Why template literals?](https://betterprogramming.pub/javascript-how-backticks-work-de269e0fb8ba)
 * Jay Conrad's [A tour of V8](http://jayconrod.com/posts/51/a-tour-of-v8--full-compiler)
 * [strict mode](https://flaviocopes.com/javascript-strict-mode/) 
+* [CJS vs ESM](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 
 ## Videos
 * [Inversion of control](https://www.youtube.com/watch?v=bAlczbDUXx8)
