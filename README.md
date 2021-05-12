@@ -36,6 +36,7 @@
 * [Advanced async and concurrency patterns](https://www.youtube.com/watch?v=Qg1SvpIau6U)
 * Communicating Sequential Process aka CSP.
 * [Nodejs testing insights](https://www.youtube.com/watch?v=SKNySdVs1DA)
+* [Are all callbacks asynchronous?](https://stackoverflow.com/questions/19083357/are-all-javascript-callbacks-asynchronous-if-not-how-do-i-know-which-are)
 
 ## Key Points
 * Object.keys().foreach() seems to be async. (Need to explore)
